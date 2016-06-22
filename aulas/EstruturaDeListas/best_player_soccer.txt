@@ -1,0 +1,15 @@
+Total de votos: 29
+O jogador 10 teve 3 votos, na qual corresponde a 10% em relação ao total.
+O jogador 20 teve 1 votos, na qual corresponde a 3% em relação ao total.
+O jogador 12 teve 1 votos, na qual corresponde a 3% em relação ao total.
+O jogador 13 teve 1 votos, na qual corresponde a 3% em relação ao total.
+O jogador 4 teve 3 votos, na qual corresponde a 10% em relação ao total.
+O jogador 5 teve 2 votos, na qual corresponde a 6% em relação ao total.
+O jogador 6 teve 2 votos, na qual corresponde a 6% em relação ao total.
+O jogador 7 teve 5 votos, na qual corresponde a 17% em relação ao total.
+O jogador 8 teve 2 votos, na qual corresponde a 6% em relação ao total.
+O jogador 9 teve 2 votos, na qual corresponde a 6% em relação ao total.
+O jogador 3 teve 1 votos, na qual corresponde a 3% em relação ao total.
+O jogador 2 teve 1 votos, na qual corresponde a 3% em relação ao total.
+O jogador 1 teve 1 votos, na qual corresponde a 3% em relação ao total.
+Um dos jogadores mais votado é o 7, com 5 votos ( 17% )
