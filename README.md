@@ -39,3 +39,14 @@ Segundo dia:
 * Débora Porto
 * Josias 
 * Yan Brito
+
+## Licença
+Creative Commons Share A Like 3.0
+
+Você está livre para:
+
+**Compartilhar** — copiar e redistribuir o material em qualquer meio ou formato
+**Adaptar** — remixar, transformar, e construir em cima do material
+
+Para qualquer propósito, até comercial.
+
